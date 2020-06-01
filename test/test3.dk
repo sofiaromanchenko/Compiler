@@ -1,0 +1,14 @@
+proc main()
+{
+	int i = 1;
+	int s = 0;
+	if(i>1)
+	{
+		s=10;
+	}
+	else
+	{
+		s=20;
+	}
+	printf("%f",s);
+}

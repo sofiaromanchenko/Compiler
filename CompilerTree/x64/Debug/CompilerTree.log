@@ -1,0 +1,71 @@
+﻿  compilerInnerData.cpp
+  CompilerTree.cpp
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(184): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(186): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(188): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(190): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(200): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(202): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(204): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(206): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  instruments.cpp
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(184): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(186): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(188): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(190): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(200): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(202): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(204): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(206): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  mathParser.cpp
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(184): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(186): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(188): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(190): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(200): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(202): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(204): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(206): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.cpp(6): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.cpp(23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.cpp(66): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.cpp(88): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  operation.cpp
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(184): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(186): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(188): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(190): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(200): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(202): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(204): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(206): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  tree.cpp
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(184): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(186): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(188): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(190): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(200): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(202): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(204): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(206): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(332): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(334): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(336): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(380): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(382): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(384): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(400): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(401): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(412): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\tree.cpp(414): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  TreeBuilderRegex.cpp
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(184): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(186): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(188): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(190): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(200): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(202): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(204): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\desktop\курсовая\compiler\compilertree\mathparser.h(206): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  CompilerTree.vcxproj -> C:\Users\user\Desktop\Курсовая\Compiler\x64\Debug\CompilerTree.exe

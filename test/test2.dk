@@ -1,0 +1,11 @@
+proc main()
+{
+	int i = 1;
+	int s = 0;
+	while(s<100)
+	{
+		s = i*i;
+		i = i+1;
+	}
+	printf("%f",s);
+}
